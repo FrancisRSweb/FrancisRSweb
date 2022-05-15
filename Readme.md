@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **francigg4@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="francigg4@gmail.com">Gmail Official</a></h3>
 <p align="left">
 </p>
 
