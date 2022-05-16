@@ -20,6 +20,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FrancisRSweb&show_icons=true&include_all_commits=true&theme=radical" alt="TheAbbie's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisRSweb&layout=compact&theme=radical" />
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrancisRSweb&theme=github_dark)
+
+
 <p align="left">
 </p>
 
