@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm FrancisRSweb</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Spain</h3>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisRSweb&layout=compact&theme=radical" />
 
 - 🔭 I’m currently working on **AWS Cloud**
 
