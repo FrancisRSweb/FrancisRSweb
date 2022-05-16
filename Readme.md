@@ -17,6 +17,7 @@
 <h3 align="left">Connect with me: <a href="francigg4@gmail.com">Gmail Official</a></h3>
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=FrancisRSweb&show_icons=true&include_all_commits=true&theme=radical" alt="TheAbbie's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisRSweb&layout=compact&theme=radical" />
 
 <p align="left">
