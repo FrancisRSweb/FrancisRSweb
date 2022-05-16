@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm FrancisRSweb</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisRSweb&layout=compact&theme=radical" />
 
 - 🔭 I’m currently working on **AWS Cloud**
 
@@ -16,6 +15,10 @@
 - 📫 How to reach me **francigg4@gmail.com**
 
 <h3 align="left">Connect with me: <a href="francigg4@gmail.com">Gmail Official</a></h3>
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisRSweb&layout=compact&theme=radical" />
+
 <p align="left">
 </p>
 
